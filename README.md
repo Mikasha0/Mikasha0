@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/aniketmalla" target="blank"><img src="https://img.shields.io/twitter/follow/aniketmalla?logo=twitter&style=for-the-badge" alt="aniketmalla" /></a> </p>
 
-- 🔭 I’m currently working in **Redux**
+- 🔭 I’m currently working in **Cubix Tech**
 
 - 🌱 I’m currently learning **react and javascript.**
-
-- 🤝 I’m looking for help with **Redux**
 
 - 💬 Ask me about **python, java programming, MySQL**
 
