@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working in **Cubix Tech**
 
-- 🌱 I’m currently learning **react and javascript.**
+- 🌱 I’m currently learning **Remix and Typescript.**
 
-- 💬 Ask me about **python, java programming, MySQL**
+- 💬 Ask me about **Python, Java Programming, MySQL, React, Javascript, HtML & CSS**
 
 - 📫 How to reach me **anikettamrakar0@gmail.com**
 
