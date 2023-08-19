@@ -31,6 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikasha0&show_icons=true&locale=en" alt="mikasha0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikasha0&" alt="mikasha0" /></p>
-
-## Look at the snake eating my contribution...🐍
-![snake gif](https://github.com/Mikasha0/Mikasha0/blob/output/github-contribution-grid-snake.gif)
